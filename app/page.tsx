@@ -30,13 +30,13 @@ export default function Home() {
 
 
       <a
-  href="https://YOUR_APK_STORAGE_LINK/app-release.apk"
+  href="https://github.com/eyenet1/affilliate/raw/main/latest1.apk"
   className="btn-green"
 >
   ⬇ Download Onstream App
 </a>
       <a
-        href="https://t.me/YOUR_CHANNEL"
+        href="https://t.me/movieboxapk12"
         target="_blank"
         className="btn"
       >
