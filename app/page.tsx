@@ -30,7 +30,7 @@ export default function Home() {
 
 
       <a
-  href="https://github.com/eyenet1/affilliate/raw/main/latest1.apk"
+  href="https://github.com/eyenet1/affilliate/raw/main/latest.apk"
   className="btn-green"
 >
   ⬇ Download Onstream App
